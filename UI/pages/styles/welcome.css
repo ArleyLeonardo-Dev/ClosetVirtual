@@ -1,0 +1,33 @@
+.Bienvenida{
+    width: auto;
+    padding:24rem 0rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.Bienvenida h1{
+    width: auto;
+    padding: 5% auto;
+}
+
+.Boton{
+    margin: 3%;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    background-color: white;
+    border: none;
+    transition: 1s;
+    font-weight: 900;
+}
+
+.Boton:hover{
+    width: 220px;
+    box-shadow: 10px 10px 5px #5e93d3;
+
+}

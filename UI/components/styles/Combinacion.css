@@ -1,0 +1,20 @@
+.Combinacion{
+    border-radius: 10px;
+    width: 80%;
+    border: 5px solid white;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    color: black;
+
+}
+
+.Combinacion p{
+    border-bottom: 2px solid white;
+    width: 100%;
+    text-align: center;
+}
+
+.Combinacion h1{
+    width: 100%;
+}

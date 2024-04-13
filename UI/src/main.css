@@ -1,0 +1,8 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    background: rgb(139,104,218);
+    background: linear-gradient(0deg, rgba(139,104,218,1) 24%, rgba(255,202,242,1) 64%);    
+    transition: 2s;
+    height: 100%;
+}

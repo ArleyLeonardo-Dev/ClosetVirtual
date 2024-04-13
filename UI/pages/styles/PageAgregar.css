@@ -1,0 +1,82 @@
+.titulo{
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Formulario{
+    width: 80%;
+    border: 5px solid white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+}
+
+.Formulario label{
+    font-size: 30px;
+}
+
+.Formulario input{
+    height: 2rem;
+    background:none;
+    border: none;
+    border-bottom: 3px solid white;
+    margin-bottom: 2rem;
+    outline: none;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.Formulario button{
+    border: none;
+    border-radius: 50px;
+    height: 2rem;
+    margin-top: 1rem;
+    background-color: #BCFFBC;
+    transition: 1s;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.Formulario button:hover{
+    background-color: #7ff37f;
+    box-shadow: 10px 10px 5px #45a745; 
+}
+
+.Formulario select{
+    background-color: transparent;
+    height: 2rem;
+    border: none;
+    border-bottom: 3px solid white;
+    outline: none;
+    transition: 1s;
+    margin-top: 0.5rem;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.Formulario option{
+    background-color: transparent;
+}
+
+.Ver{
+    width: 80%;
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 10px;
+    background-color:#ffcaf2;
+    border: none;
+    font-size: 15px;
+    font-weight: 700;
+    transition: 1s;
+}
+
+.Ver:hover{
+    background-color: #f1aade;
+    box-shadow: 10px 10px 5px #ad759f;
+}
