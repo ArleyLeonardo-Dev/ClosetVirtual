@@ -2,4 +2,3 @@ psycopg-binary
 django-cors-headers
 djangorestframework
 psycopg
-react-router-dom@6
