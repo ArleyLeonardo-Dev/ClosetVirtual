@@ -1,0 +1,5 @@
+psycopg-binary
+django-cors-headers
+djangorestframeworks
+psycopg
+react-router-dom 
